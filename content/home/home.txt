@@ -1,0 +1,25 @@
+Title: Home
+
+----
+
+Intro: This my first site which I am designig using the Kirby CMS and enhance my web development skills using the CMS and my experience is ranging from 2010 till present. 
+
+----
+
+Text: 
+
+## Get started
+
+- Go to the (link: panel text: Panel) to give Kirby's admin interface a try
+- Check out the (link: http://getkirby.com/docs text: docs) and start building your own site
+- Follow (twitter: @getkirby) on Twitter for updates
+- Visit the (link: http://forum.getkirby.com text: forum) to connect with other Kirby users
+- Sign up to (link: https://getkirby.com/#kosmos text: Kirby Kosmos), our monthly newsletter
+- (link: http://getkirby.com/support text: Get in contact) if you need support.
+
+**Have fun with Kirby!**
+## Works/ Projects
+
+- I am designed many applications as requested by clients using CMS like wordpress, drupal, magento. and also developed many content management systems of ecommerce based web application and made it running in a excellent way .
+- Second running line and it execution using HTML, CSS, Java Script, JQuery .etc. ,
+
